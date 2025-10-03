@@ -1,0 +1,8 @@
+p{
+ ul li:first-child {   
+   color:green;
+ }
+ ul li:last-child { 
+  color:red;}
+  color:blue;  
+}
