@@ -22,7 +22,7 @@
    cursor: pointer; }
         
  p::before {
-   content: "👉 ";
+   content: "🢂 ";
    color: blue; }
         
  p::after {
